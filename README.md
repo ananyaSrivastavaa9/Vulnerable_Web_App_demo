@@ -21,8 +21,6 @@ This project is a deliberately vulnerable web application built for learning and
 - `signup.php` / `saveContact.php` → Supporting forms
 
 ## Screenshots
-## Screenshots
-
 - **Welcome Page**  
   ![Welcome Page](screenshot/WelcomePage.jpg)
 

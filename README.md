@@ -21,21 +21,25 @@ This project is a deliberately vulnerable web application built for learning and
 - `signup.php` / `saveContact.php` → Supporting forms
 
 ## Screenshots
-Here are some key demonstrations:
+## Screenshots
+
+- **Welcome Page**  
+  ![Welcome Page](screenshot/WelcomePage.jpg)
+
 - **Backdoor Login**  
-  ![Backdoor Login](screenshots/backdoor.png)
+  ![Backdoor Login](screenshot/login.jpg)
 
 - **SQL Injection**  
-  ![SQL Injection](screenshots/sql-injection.png)
+  ![SQL Injection](screenshot/products.jpg)
 
 - **XSS Popup**  
-  ![XSS Popup](screenshots/xss.png)
+  ![XSS Popup](screenshot/contact.jpg)
 
 - **Admin Panel Open Without Login**  
-  ![Admin Panel](screenshots/admin.png)
+  ![Admin Panel](screenshot/admin.jpg)
 
 - **Plaintext Password Storage**  
-  ![Database File](screenshots/database.png)
+  ![Database File](screenshot/plain_text.jpg)
 
 ## ⚠️ Disclaimer
 This project is for **educational purposes only**.  
